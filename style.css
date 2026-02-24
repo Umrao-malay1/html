@@ -4,3 +4,9 @@ p{
 P{
     font-size: 24px;
 }
+body{
+    background-color: rgb(208, 221, 231);
+}
+b{
+    color: blue;
+}
